@@ -11,6 +11,9 @@ Validate Json before submitting
 ==================================
 Want to be carefull and make sure your json is formatted correctly use http://jsonlint.com/ to validate your file
 
+Use the link below for the form.
+http://wh0cares.github.io
+
 Image Sizes (Important).
 =========================
 icons = H=256 x W=256
